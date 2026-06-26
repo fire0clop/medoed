@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.465072547487-bcja4p067aej4b75qu2o5emt9cq1r5qs</string>
+			</array>
+		</dict>
+	</array>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Mulish-Regular.ttf</string>
+		<string>Mulish-Medium.ttf</string>
+		<string>Mulish-SemiBold.ttf</string>
+		<string>Mulish-Bold.ttf</string>
+	</array>
+</dict>
+</plist>
