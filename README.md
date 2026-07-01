@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/banner.svg" alt="medoed banner" width="100%">
+</p>
+
 # Medoed
 
 **A diabetes companion for iOS — carb counting, insulin bolus estimation, a shared dish library, and a meal diary, backed by a secure FastAPI service.**
